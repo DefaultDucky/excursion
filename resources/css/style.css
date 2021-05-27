@@ -1,0 +1,33 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: black;
+    text-align: center;
+}
+
+h1 {
+    font-weight: normal;
+    font-size: 50px;
+    color: white;
+}
+
+h3 {
+    font-size: 21px;
+    color: gray;
+    font-weight: normal;
+}
+
+a {
+    font-size: 16px;
+    color: aquamarine;
+    margin: 0, auto;
+    transition-duration: 1000ms;
+}
+
+a:hover {
+    color: cyan;
+}
+
+footer h3 {
+    text-align: right;
+}
+
